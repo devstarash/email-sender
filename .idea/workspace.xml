@@ -1,9 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7dd875e1-a99e-4c11-bcaa-6f4bcc3f23ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Calculatior/Calculatior.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorNew/CalculatorNew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurrencyExchange/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurrencyExchange/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurrencyExchange/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurrencyExchange/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurrencyExchange/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurrencyExchange/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringCrud/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringCrud/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringCrud/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringCrud/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringCrud/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringCrud/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringCrud/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringProject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstSpringProject/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic3/Generic3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheretance/Inheretance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPP/OOPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OopRepeat/OopRepeat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiConsumer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiConsumer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiConsumer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiConsumer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiConsumer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiConsumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiConsumer/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiConsumer/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiConsumer/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiConsumer/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApi/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApi/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testrep/Testrep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-rest-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-rest-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-rest-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-rest-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-rest-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-rest-service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-rest-service/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
   <component name="ProjectId" id="3E8UjluUf75jh1fR93UTW4hZ1L8" />
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "feature/email-service",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dd875e1-a99e-4c11-bcaa-6f4bcc3f23ec" name="Changes" comment="" />
+      <created>1779559830168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779559830168</updated>
+      <workItem from="1779559831339" duration="275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>
