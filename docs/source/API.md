@@ -65,3 +65,9 @@ public void sendReceipt(ReceiptEmailDTO receipt) throws MessagingException
 | `quantity` | int | Количество |
 | `priceEach` | BigDecimal | Цена за единицу |
 | `itemTotal` | BigDecimal | Сумма по позиции |
+
+## Javadoc
+
+````{raw} html
+<iframe src="_static/apidocs/index.html" width="100%" height="800px" style="border:none;"></iframe>
+````
