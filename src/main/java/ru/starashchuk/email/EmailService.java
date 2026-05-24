@@ -7,13 +7,40 @@ import ru.starashchuk.email.dto.ReceiptEmailDTO;
 
 import java.util.Properties;
 
+/**
+ * Сервис для отправки HTML писем с чеком покупки.
+ *
+ * <p>Использует JavaMail для подключения к SMTP серверу.
+ * HTML шаблон письма генерируется через {@link ReceiptTemplate}.</p>
+ *
+ * <p>Пример:</p>
+ * <pre>{@code
+ * EmailService emailService = new EmailService(config);
+ * emailService.sendReceipt(receipt);
+ * }</pre>
+ */
 public class EmailService {
+
+    /**
+     * Настройки SMTP подключения.
+     */
     private EmailConfig emailConfig;
 
+    /**
+     * Создаёт сервис отправки писем.
+     *
+     * @param emailConfig настройки SMTP подключения
+     */
     public EmailService(EmailConfig emailConfig) {
         this.emailConfig = emailConfig;
     }
 
+    /**
+     * Отправляет HTML письмо с чеком покупателю.
+     *
+     * @param receipt данные чека
+     * @throws MessagingException если не удалось отправить письмо
+     */
     public void sendReceipt(ReceiptEmailDTO receipt) throws MessagingException {
         Properties properties = new Properties();
         properties.put("mail.smtp.auth", "true");
