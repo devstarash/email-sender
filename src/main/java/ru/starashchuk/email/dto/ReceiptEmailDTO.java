@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Данные чека для отправки покупателю по email.
  *
- * <p>Передаётся в {@link EmailService#sendReceipt(ReceiptEmailDTO)}.</p>
+ * * <p>Передаётся в {@link ru.starashchuk.email.EmailService}.</p>
  *
  * <p>Пример:</p>
  * <pre>{@code
