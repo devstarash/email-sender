@@ -4,11 +4,46 @@ import java.math.BigDecimal;
 import java.time.LocalDateTime;
 import java.util.List;
 
+/**
+ * Данные чека для отправки покупателю по email.
+ *
+ * * <p>Передаётся в {@link ru.starashchuk.email.EmailService}.</p>
+ *
+ * <p>Пример:</p>
+ * <pre>{@code
+ * ReceiptEmailDTO receipt = new ReceiptEmailDTO();
+ * receipt.setToEmail("buyer@gmail.com");
+ * receipt.setReceiptId(42);
+ * receipt.setSaleDate(LocalDateTime.now());
+ * receipt.setItems(items);
+ * receipt.setTotal(new BigDecimal("700.00"));
+ * }</pre>
+ */
 public class ReceiptEmailDTO {
+
+    /**
+     * Email адрес покупателя.
+     */
     private String toEmail;
+
+    /**
+     * Уникальный номер чека.
+     */
     private int receiptId;
+
+    /**
+     * Дата и время покупки.
+     */
     private LocalDateTime saleDate;
+
+    /**
+     * Список товаров в чеке.
+     */
     private List<ItemDTO> items;
+
+    /**
+     * Итоговая сумма покупки.
+     */
     private BigDecimal total;
 
     public String getToEmail() {
